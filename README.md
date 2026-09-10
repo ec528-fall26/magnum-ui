@@ -1,7 +1,7 @@
-# EC528 Project — magnum-ui Functional Testing
+# EC528 Project — Keystone-NG: OpenStack Identity and Access Management in Rust
 
 **Team:** <names>
-**Mentor:** Michal Nasiadka (OpenStack)
+**Mentor:** Artem Goncharov (OpenStack Keystone)
 **Project:** <one sentence: what this system does>
 
 ## What this is
